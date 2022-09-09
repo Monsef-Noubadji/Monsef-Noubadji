@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Cloud Engineering**
 
 - 👯 I’m looking to collaborate on **Web application projects**
 
