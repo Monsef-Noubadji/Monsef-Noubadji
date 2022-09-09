@@ -40,6 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsef-noubadji&show_icons=true&locale=en&layout=compact" alt="monsef-noubadji" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsef-noubadji&show_icons=true&locale=en" alt="monsef-noubadji" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsef-noubadji&show_icons=true&locale=en&theme=dark" alt="monsef-noubadji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsef-noubadji&" alt="monsef-noubadji" " /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsef-noubadji&theme=dark" alt="monsef-noubadji" " /></p>
