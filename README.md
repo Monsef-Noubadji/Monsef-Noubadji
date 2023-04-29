@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Monsef Abdelillah Noubadji 🌻</h1>
 <img align="right" width="300px" src='https://i.pinimg.com/originals/8f/8a/01/8f8a0169f254293444064fa6dc09d333.gif' alt="pixel art">
 
-<h3 align="center">Software Engineer with a hands on practice with Application Security </h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsef-noubadji&label=Profile%20views&color=0e75b6&style=flat" alt="monsef-noubadji" /> </p>
 
