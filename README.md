@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/MonsefNoubadji" target="_blank"><img src="https://img.shields.io/twitter/follow/monsefnoubadji?logo=twitter&style=for-the-badge" alt="monsefnoubadji" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Project**
+- 🔭 I’m currently working on **Being a x10 Engineer**
 
-- 🌱 I’m currently learning **React, Cloud Engineering**
+- 🌱 I’m currently learning **Engineering**
 
 - 👯 I’m looking to collaborate on **Web application projects**
 
